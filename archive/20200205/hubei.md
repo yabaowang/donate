@@ -14,8 +14,6 @@
 {% include hubei-donation.md %}
 
 
-
-
 ### [1月30日公布物资使用情况](http://www.hbsredcross.org.cn/xxgk/4704.jhtml)
 
 
