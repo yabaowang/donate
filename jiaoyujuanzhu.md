@@ -1,6 +1,4 @@
-
 {% include navigation.md %}
-
 
 ### 湖北省红十字会累计捐赠曲线图
 

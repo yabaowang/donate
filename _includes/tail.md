@@ -1,8 +1,9 @@
 
 
 
-
-[友情链接？](https://weileizeng.com/news/1992/06/29/contact/)
+友情链接
+[少儿在线编程](https://teaching.jinyiweilai.com)
+[网课平台](http://jinyiweilai.com)
 
 
 {% include duty.md %}
