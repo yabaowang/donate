@@ -19,7 +19,7 @@
 ```
 注：数据有可能偶尔更新不及时(有些未报告或没第一时间更新)
 
-[捐款明细](./juankuanmingxi)
+[捐款明细](./juankuanmingxi){target="_blank"}
 
 
 ### 物资捐助
