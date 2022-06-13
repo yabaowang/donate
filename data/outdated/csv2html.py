@@ -3,8 +3,7 @@ import pytablewriter as ptw
 from pytablewriter import HtmlTableWriter
 
 def convert(csv_file_path, html_file_path,table_name):
-    print("this python script read table in ",csv_file_path, " and then write it into html file ",html_file_path)
-    print("converting...")
+    print("脚本将从该CSV文件中读取数据表格: ",csv_file_path, " ,然后写到该html文件中: ",html_file_path)
     writer = HtmlTableWriter()
     writer.from_csv(csv_file_path)
     writer.table_name = table_name

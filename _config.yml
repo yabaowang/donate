@@ -1,10 +1,9 @@
 theme: jekyll-theme-cayman
 
 
-title: "湖北/武汉红十字 云监工平台"
+title: "我来捐款 公示平台"
 
-#repository: "https://github.com/WeileiZeng/red-cross"
-repo: "https://github.com/weileizeng/red-cross"
+repo: "https://github.com/yabaowang/yabaowang.github.io.git"
 
 google_analytics: UA-155170936-2
 
