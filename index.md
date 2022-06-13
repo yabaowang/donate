@@ -22,9 +22,14 @@
 [捐款明细](./juankuanmingxi){target="_blank"}
 
 
-### 其它捐助
+### 物资捐助
 
-[其它捐助明细](./qitajuanzhu)
+[物资捐助明细](./jiaoyujuanzhu)
+
+### 教育捐助
+
+[教育捐助明细](./jiaoyujuanzhu)
+
 
 
 {% include news.md %}
